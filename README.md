@@ -1,15 +1,12 @@
 ## About Me:
-My name is Garvit and I am currently a student at VIT Bhopal University in the School of Computer Science and Engineering.
+My name is Garvit and I am currently a student at VIT Bhopal University in the School of Computer Science and Engineering. <br/>
 Fuelled by my passion and love for coding and exploring new algorithms, I deeply desire to make new innovations and breakthrough current technology with unconventional methods. I love learning new coding languages and facing challenges that improve my creativity. Finding unique methods that shock people into thinking "IT CAN BE DONE THAT WAY!?!?" is my cup of tea.
 
 ## Projects:
-A.L.I.C.E. AI Voice Assistant
-• Demonstrated my solid foundation in developing and programming and further
-highlighted my strong problem-solving and teamwork skills
-• Collaborated with a team of 3+ batchmates, dispensing roles and responsibilities to boost
-efficiency and improve both individual and team performance
-• Utilised programming languages like Python, tools like Git and open-source projects and
-libraries to produce efficient results
+A.L.I.C.E. AI Voice Assistant <br/>
+• Demonstrated my solid foundation in developing and programming and further highlighted my strong problem-solving and teamwork skills <br/>
+• Collaborated with a team of 3+ batchmates, dispensing roles and responsibilities to boost efficiency and improve both individual and team performance <br/>
+• Utilised programming languages like Python, tools like Git and open-source projects and libraries to produce efficient results <br/>
 
 
 ## Socials:
