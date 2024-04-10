@@ -1,5 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=garvit-exe.garvit-exe" />
-
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=garvit-exe.garvit-exe"/>
 
 <b>About Me</b><br/>
 <p>
