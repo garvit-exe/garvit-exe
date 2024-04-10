@@ -50,12 +50,5 @@
   </p>
 </details>
 
-<details>
-  <summary> <b>Top Contributed Repositories</b> </summary>
-  <p align="center">
-    <img src="https://github-contributor-stats.vercel.app/api?username=garvit-exe&limit=5&theme=transparent&combine_all_yearly_contributions=true" alt="Top Contributed Repo" style="width: auto; border: none;">
-  </p>
-</details>
-
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&hide_border=true)
