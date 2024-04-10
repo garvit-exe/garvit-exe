@@ -16,7 +16,7 @@ Fuelled by my passion and love for coding and exploring new algorithms, I deeply
 
 ### GitHub Stats:
 <details>
-  <summary>View GitHub Stats</summary>
+  <summary> View My GitHub Statistics </summary>
   <table>
     <tr>
       <td align="center">
