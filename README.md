@@ -1,25 +1,28 @@
 ### About Me
 <p>
-Hi, My name is Garvit.
-
-Fuelled by my passion and love for coding and exploring new algorithms, I deeply desire to make innovations and break through current technology with unconventional methods. I love learning new coding languages and facing challenges that improve my creativity. Finding unique methods that shock people into thinking "IT CAN BE DONE THAT WAY!?!?" is my cup of tea.
-
-<b>Currently Growing</b>
-- I'm pursuing my Bachelor's in Computer Science at [VIT Bhopal University](https://vitbhopal.ac.in/).
-- Exploring various fields within computer science, including machine learning, web development, app development and cyber security.
-- Actively learning new technologies and frameworks to broaden my skill set.
-
-<b>My Interests</b>
-- [Open Source](https://github.com/garvit-exe): Enjoy contributing to open-source projects.
-- [Problem Solving](https://leetcode.com/garvit-exe/): I love finding elegant solutions to challenging problems.
-- Designing: I like to design logos, posters, user interfaces, merchandise, and many more things.
+  Hi, My name is Garvit.
+  
+  Fuelled by my passion and love for coding and exploring new algorithms, I deeply desire to make innovations and break through current technology with unconventional methods. I love learning new coding languages and facing challenges that improve my creativity. Finding unique methods that shock people into thinking "IT CAN BE DONE THAT WAY!?!?" is my cup of tea.
+  
+  <b>Currently Growing</b>
+  - I'm pursuing my Bachelor's in Computer Science at [VIT Bhopal University](https://vitbhopal.ac.in/).
+  - Exploring various fields within computer science, including machine learning, web development, app development and cyber security.
+  - Actively learning new technologies and frameworks to broaden my skill set.
+  
+  <b>My Interests</b>
+  - [Open Source](https://github.com/garvit-exe): Enjoy contributing to open-source projects.
+  - [Problem Solving](https://leetcode.com/garvit-exe/): I love finding elegant solutions to challenging problems.
+  - Designing: I like to design logos, posters, user interfaces, merchandise, and many more things.
 </p>
 
 ### Projects
-<b>ALICE - The AI Voice Assistant</b> <br/>
-• Demonstrated my solid foundation in developing and programming and further highlighted my strong problem-solving and teamwork skills <br/>
-• Collaborated with a team of 3+ batchmates, dispensing roles and responsibilities to boost efficiency and improve both individual and team performance <br/>
-• Utilised programming languages like Python, tools like Git and open-source projects and libraries to produce efficient results <br/>
+<details>
+  <summary> <b>ALICE - The AI Voice Assistant</b> </summary>
+  - Demonstrated my solid foundation in developing and programming
+  - Highlighted my strong problem-solving and teamwork skills
+  - Collaborated with a team of 3+ batchmates, dispensing roles and responsibilities to boost efficiency and improve both individual and team performance
+  - Utilised programming languages like Python, tools like Git and open-source projects and libraries to produce efficient results
+</details>
 
 ### Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/garvit__budhiraja) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/garvit-budhiraja) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22660274) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/being_garvit) 
@@ -29,7 +32,6 @@ Fuelled by my passion and love for coding and exploring new algorithms, I deeply
 
 ### GitHub Stats
 <details>
-  
   <summary><br/></summary>
   <table>
     <tr>
