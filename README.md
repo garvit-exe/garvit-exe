@@ -19,10 +19,10 @@
 <details>
   <summary> <b>ALICE - The AI Voice Assistant</b> </summary>
   <p>
-    - Demonstrated my solid foundation in developing and programming
-    - Highlighted my strong problem-solving and teamwork skills
-    - Collaborated with a team of 3+ batchmates, dispensing roles and responsibilities to boost efficiency and improve both individual and team performance
-    - Utilised programming languages like Python, tools like Git and open-source projects and libraries to produce efficient results
+    • Demonstrated my solid foundation in developing and programming<br/>
+    • Highlighted my strong problem-solving and teamwork skills<br/>
+    • Collaborated with a team of 3+ batchmates, dispensing roles and responsibilities to boost efficiency and improve both individual and team performance<br/>
+    • Utilised programming languages like Python, tools like Git and open-source projects and libraries to produce efficient results<br/>
   </p>
 </details>
 
