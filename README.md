@@ -29,7 +29,8 @@ Fuelled by my passion and love for coding and exploring new algorithms, I deeply
 
 ### GitHub Stats
 <details>
-  <summary></summary>
+  
+  <summary><br/></summary>
   <table>
     <tr>
       <td align="center">
