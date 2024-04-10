@@ -17,13 +17,13 @@ Fuelled by my passion and love for coding and exploring new algorithms, I deeply
 
 ## GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=garvit-exe&theme=transparent&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=garvit-exe&theme=transparent&hide_border=false" alt="GitHub Streak">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garvit-exe&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=garvit-exe&theme=transparent&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="auto">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=garvit-exe&theme=transparent&hide_border=false" alt="GitHub Streak" width="auto">
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garvit-exe&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="auto">
+</p>
 
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
