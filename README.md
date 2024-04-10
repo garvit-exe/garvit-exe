@@ -1,6 +1,6 @@
 ### About Me
 <p>
-My name is Garvit and I am currently a student at VIT Bhopal University in the School of Computer Science and Engineering.
+Hi, My name is Garvit.
 
 Fuelled by my passion and love for coding and exploring new algorithms, I deeply desire to make innovations and break through current technology with unconventional methods. I love learning new coding languages and facing challenges that improve my creativity. Finding unique methods that shock people into thinking "IT CAN BE DONE THAT WAY!?!?" is my cup of tea.
 
@@ -27,7 +27,13 @@ Fuelled by my passion and love for coding and exploring new algorithms, I deeply
 ### Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Swift](https://img.shields.io/badge/swift-%23E34F26.svg?style=for-the-badge&logo=swift&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
+<span>
+  
 ### GitHub Stats
+
+</span>
+
+<span>
 <details>
   
   <summary><br/></summary>
@@ -49,6 +55,7 @@ Fuelled by my passion and love for coding and exploring new algorithms, I deeply
 ![](https://github-readme-stats-garvit-exe.vercel.app/api?username=garvit-exe&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 </details>
+</span>
 
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&hide_border=true)
