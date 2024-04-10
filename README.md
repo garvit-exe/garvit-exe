@@ -17,8 +17,8 @@ Fuelled by my passion and love for coding and exploring new algorithms, I deeply
 
 ## GitHub Stats:
 <div style="display: flex; justify-content: center; border: none;">
-  <img src="https://github-readme-stats.vercel.app/api?username=garvit-exe&theme=transparent&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: auto;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=garvit-exe&theme=transparent&hide_border=true" alt="GitHub Streak" style="width: auto;">
+  <img src="https://github-readme-stats.vercel.app/api?username=garvit-exe&theme=transparent&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: auto;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=garvit-exe&theme=transparent&hide_border=false" alt="GitHub Streak" style="width: auto;">
 </div>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garvit-exe&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: auto;">
