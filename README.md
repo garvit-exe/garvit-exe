@@ -1,4 +1,4 @@
-### About Me
+<b>About Me</b>
 <p>
   Hi, My name is Garvit.
   
@@ -15,7 +15,7 @@
   - Designing: I like to design logos, posters, user interfaces, merchandise, and many more things.
 </p>
 
-### Projects
+<b>Projects</b>
 <details>
   <summary> <b>ALICE - The AI Voice Assistant</b> </summary>
   <p>
@@ -26,29 +26,20 @@
   </p>
 </details>
 
-### Socials
+<b>Socials</b>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/garvit__budhiraja) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/garvit-budhiraja) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22660274) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/being_garvit) 
 
-### Tech Stack
+<b>Tech Stack</b>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Swift](https://img.shields.io/badge/swift-%23E34F26.svg?style=for-the-badge&logo=swift&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-### GitHub Stats
 <details>
-  <summary><br/></summary>
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats-garvit-exe.vercel.app/api?username=garvit-exe&theme=transparent&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: auto; border: none;">
-      </td>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=garvit-exe&theme=transparent&hide_border=true" alt="GitHub Streak" style="width: auto; border: none;">
-      </td>
-    </tr>
-  </table>
-  <p align="center">
+  <summary> <b>GitHub Stats</b> </summary>
+  <div align="center">
+    <img src="https://github-readme-stats-garvit-exe.vercel.app/api?username=garvit-exe&theme=transparent&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" style="width: auto; border: none;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=garvit-exe&theme=transparent&hide_border=true" alt="GitHub Streak" style="width: auto; border: none;"><br/>
     <img src="https://github-readme-stats-garvit-exe.vercel.app/api/top-langs/?username=garvit-exe&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: auto; border: none;">
-  </p>
+  </div>
 </details>
 
-### Random Dev Quote
+<b>Random Dev Quote</b>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&hide_border=true)
