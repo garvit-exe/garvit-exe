@@ -31,10 +31,11 @@ Fuelled by my passion and love for coding and exploring new algorithms, I deeply
   <p align="center">
     <img src="https://github-readme-stats-garvit-exe.vercel.app/api/top-langs/?username=garvit-exe&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: auto;">
   </p>
-</details>
-
+  
 ### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=garvit-exe&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+![](https://github-readme-stats-garvit-exe.vercel.app/api?username=garvit-exe&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+
+</details>
 
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&hide_border=true)
