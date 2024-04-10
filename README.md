@@ -57,7 +57,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats-garvit-exe.vercel.app/api?username=garvit-exe&theme=transparent&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: auto; border: none;">
+      <img src="https://github-readme-stats-garvit-exe.vercel.app/api?username=garvit-exe&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: auto; border: none;">
     </td>
     <td align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=garvit-exe&theme=transparent&hide_border=true" alt="GitHub Streak" style="width: auto; border: none;">
@@ -65,7 +65,7 @@
   </tr>
 </table>
 <p align="center">
-  <img src="https://github-readme-stats-garvit-exe.vercel.app/api/top-langs/?username=garvit-exe&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: auto; border: none;">
+  <img src="https://github-readme-stats-garvit-exe.vercel.app/api/top-langs/?username=garvit-exe&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: auto; border: none;">
 </p>
 
 <hr/>
