@@ -16,7 +16,7 @@ Fuelled by my passion and love for coding and exploring new algorithms, I deeply
 </p>
 
 ### Projects
-<b>ALICE (The AI Voice Assistant)</b> <br/>
+<b>ALICE - The AI Voice Assistant</b> <br/>
 • Demonstrated my solid foundation in developing and programming and further highlighted my strong problem-solving and teamwork skills <br/>
 • Collaborated with a team of 3+ batchmates, dispensing roles and responsibilities to boost efficiency and improve both individual and team performance <br/>
 • Utilised programming languages like Python, tools like Git and open-source projects and libraries to produce efficient results <br/>
