@@ -17,7 +17,7 @@ Fuelled by my passion and love for coding and exploring new algorithms, I deeply
 
 ## GitHub Stats:
 <table style="border: none;">
-  <tr>
+  <tr style="border: none;">
     <td align="center" style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=garvit-exe&theme=transparent&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: auto; border: none;">
     </td>
