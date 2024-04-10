@@ -31,7 +31,7 @@ Fuelled by my passion and love for coding and exploring new algorithms, I deeply
 </p>
 
 ### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&hide_border=false)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&hide_border=true)
 
 ### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=garvit-exe&limit=5&theme=transparent&combine_all_yearly_contributions=true)
