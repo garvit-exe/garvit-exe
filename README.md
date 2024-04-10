@@ -46,10 +46,10 @@
     </tr>
   </table>
   <p align="center">
-    <img src="https://github-readme-stats-garvit-exe.vercel.app/api/top-langs/?username=garvit-exe&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: auto;">
+    <img src="https://github-readme-stats-garvit-exe.vercel.app/api/top-langs/?username=garvit-exe&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: auto; border: none;">
   </p>
-<b>Top Contributed Repo</b>
-![](https://github-contributor-stats.vercel.app/api?username=garvit-exe&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+  <b>Top Contributed Repo</b>
+  <img src="https://github-contributor-stats.vercel.app/api?username=garvit-exe&limit=5&theme=transparent&combine_all_yearly_contributions=true" alt="Top Contributed Repo" style="width: auto; border: none;">
 </details>
 
 ### Random Dev Quote
