@@ -48,3 +48,10 @@
     <img src="https://github-readme-stats-garvit-exe.vercel.app/api/top-langs/?username=garvit-exe&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: auto; border: none;">
   </p>
 </details>
+
+<div align="center">
+  <b>My Contributions</b>
+  <br>
+  <img alt="My Contributions" src="https://raw.githubusercontent.com/garvit-exe/garvit-exe/output/github-contribution-grid-snake.svg"/>
+  <br/><br/><br/>
+</div>
