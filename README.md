@@ -50,4 +50,4 @@
 </details>
 
 <b>Random Dev Quote</b><br/>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&hide_border=true)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&hide_border=false)
