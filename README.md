@@ -1,6 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=garvit-exe.garvit-exe"/>
+
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=01101000+01101001;My+name+is+Garvit.;Nice+to+meet+you!;" alt="Hi"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=01101000+01101001;My+name+is+Garvit.;Nice+to+meet+you!;" alt="Hi"/>
 </h1>
 
 <img align="right" src="https://readme-typing-svg.herokuapp.com?font=Goldman&size=13&duration=2000&pause=300&color=00F72B&background=000000&vCenter=true&multiline=true&width=255&height=70&lines=&nbsp;&nbsp;%24+whoami;&nbsp;&nbsp;Garvit+Budhiraja.;&nbsp;&nbsp;A+Developer+And+A+Problem+Solver." alt="Whoami">
@@ -32,12 +33,42 @@
 
 <b>Projects</b><br/>
 <details>
-  <summary> <b>ALICE - The AI Voice Assistant</b> </summary>
+  <summary>&nbsp;<b>ALICE - The AI Voice Assistant</b>&nbsp;</summary>
   <p>
-    • Demonstrated my solid foundation in developing and programming<br/>
-    • Highlighted my strong problem-solving and teamwork skills<br/>
-    • Collaborated with a team of 3+ batchmates, dispensing roles and responsibilities to boost efficiency and improve both individual and team performance<br/>
-    • Utilised programming languages like Python, tools like Git and open-source projects and libraries to produce efficient results<br/>
+    <table>
+      <tr>
+        <td>
+          Project Name
+        </td>
+        <td>
+          A.L.I.C.E. (Artificial Linguistic Intelligent Computer Entity)
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Purpose
+        </td>
+        <td>
+          Enhancing computing experience
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Languages
+        </td>
+        <td>
+          Python
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Team Members
+        </td>
+        <td>
+          <a href="https://github.com/garvit-exe">Garvit</a>, <a href="https://github.com/shashidhar-kittur">Shashidhar</a>, <a href="https://github.com/Rohan-Gautam">Rohan</a>, <a href="https://github.com/khyahahati">Khyati</a>, <a href="https://github.com/Riya922003">Riya</a>
+        </td>
+      </tr>
+    </table>
   </p>
 </details>
 
@@ -56,7 +87,7 @@
 <hr/>
 
 <b>GitHub Stats</b><br/>
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <img src="https://github-readme-stats-garvit-exe.vercel.app/api?username=garvit-exe&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: auto; border: none;">
