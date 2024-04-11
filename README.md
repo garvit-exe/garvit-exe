@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=garvit-exe.garvit-exe"/>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=garvit-exe.garvit-exe&left_text=Visitors%20on%20my%20profile&left_color=black&right_color=blueviolet"/>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=01101000+01101001;My+name+is+Garvit.;Nice+to+meet+you!;" alt="Hi"/>
