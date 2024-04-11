@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=01101000+01101001;My+name+is+Garvit.;Nice+to+meet+you!;" alt="Hi"/>
 </h1>
 
-<img align="right" src="https://readme-typing-svg.herokuapp.com?font=Goldman&size=13&duration=4000&color=00F72B&background=000000&vCenter=true&multiline=true&width=255&height=70&lines=&nbsp;&nbsp;%24+whoami;&nbsp;&nbsp;Garvit+Budhiraja.;&nbsp;&nbsp;A+Developer+And+A+Problem+Solver." alt="Whoami">
+<img align="right" src="https://readme-typing-svg.herokuapp.com?font=Goldman&size=13&duration=2000&pause=300&color=00F72B&background=000000&vCenter=true&multiline=true&width=255&height=70&lines=&nbsp;&nbsp;%24+whoami;&nbsp;&nbsp;Garvit+Budhiraja.;&nbsp;&nbsp;A+Developer+And+A+Problem+Solver." alt="Whoami">
 
 <b>About Me</b><br/>
 <p>
