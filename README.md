@@ -103,11 +103,10 @@
 
 <hr/>
 
-<img alt="GitHub Activity Graph" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=garvit-exe&theme=github-compact&hide_border=true&area=true&area_color=8a2be2&line=8a2be2&point=8a2be2&hide_title=true" />
-
 <div align="center">
   <b>My Contributions</b>
   <br>
+  <img alt="GitHub Activity Graph" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=garvit-exe&theme=github-compact&hide_border=true&area=true&area_color=8a2be2&line=8a2be2&point=8a2be2&hide_title=true" />
   <img alt="My Contributions" src="https://raw.githubusercontent.com/garvit-exe/garvit-exe/output/github-contribution-grid-snake.svg"/>
   <br/><br/><br/>
 </div>
