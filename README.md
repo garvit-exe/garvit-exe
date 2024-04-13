@@ -93,7 +93,7 @@
       <img src="https://github-readme-stats-garvit-exe.vercel.app/api?username=garvit-exe&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: auto; border: none;">
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=garvit-exe&theme=transparent&hide_border=true" alt="GitHub Streak" style="width: auto; border: none;">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=garvit-exe&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
