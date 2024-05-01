@@ -39,6 +39,44 @@
 
 <b>Projects</b><br/>
 <details open>
+  <summary>&nbsp;<b>FIR Sahayak</b>&nbsp;</summary>
+  <p>
+    <table>
+      <td>
+          Project Name
+        </td>
+        <td>
+          F.I.R. Sahayak (First Information Report - Sahayak)
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Purpose
+        </td>
+        <td>
+          Providing accessibilty for registering FIRs online
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Languages and Frameworks
+        </td>
+        <td>
+          HTML, CSS, JavaScript, Node.js, Express.js, Python, Flask, SQLite3
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Team Members
+        </td>
+        <td>
+          <a href="https://github.com/garvit-exe">Garvit</a>, <a href="https://github.com/shashidhar-kittur">Shashidhar</a>, <a href="https://github.com/Rohan-Gautam">Rohan</a>, <a href="https://github.com/Nitisha-Gupta">Nitisha</a>, <a href="https://github.com/Riya922003">Riya</a>
+        </td>
+      </tr>
+    </table>
+  </p>
+</details>
+<details open>
   <summary>&nbsp;<b>ALICE - The AI Voice Assistant</b>&nbsp;</summary>
   <p>
     <table>
@@ -72,44 +110,6 @@
         </td>
         <td>
           <a href="https://github.com/garvit-exe">Garvit</a>, <a href="https://github.com/shashidhar-kittur">Shashidhar</a>, <a href="https://github.com/Rohan-Gautam">Rohan</a>, <a href="https://github.com/khyahahati">Khyati</a>, <a href="https://github.com/Riya922003">Riya</a>
-        </td>
-      </tr>
-    </table>
-  </p>
-</details>
-<details open>
-  <summary>&nbsp;<b>FIR Sahayak</b>&nbsp;</summary>
-  <p>
-    <table>
-      <td>
-          Project Name
-        </td>
-        <td>
-          F.I.R. Sahayak (First Information Report - Sahayak)
-        </td>
-      </tr>
-      <tr>
-        <td>
-          Purpose
-        </td>
-        <td>
-          Providing accessibilty for registering FIRs online
-        </td>
-      </tr>
-      <tr>
-        <td>
-          Languages and Frameworks
-        </td>
-        <td>
-          HTML, CSS, JavaScript, Node.js, Express.js, Python, Flask, SQLite3
-        </td>
-      </tr>
-      <tr>
-        <td>
-          Team Members
-        </td>
-        <td>
-          <a href="https://github.com/garvit-exe">Garvit</a>, <a href="https://github.com/shashidhar-kittur">Shashidhar</a>, <a href="https://github.com/Rohan-Gautam">Rohan</a>, <a href="https://github.com/Nitisha-Gupta">Nitisha</a>, <a href="https://github.com/Riya922003">Riya</a>
         </td>
       </tr>
     </table>
