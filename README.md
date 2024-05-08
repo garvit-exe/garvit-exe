@@ -6,7 +6,7 @@
 
 <img align="right" src="https://readme-typing-svg.herokuapp.com?font=Goldman&size=13&duration=2000&pause=300&color=00F72B&background=000000&vCenter=true&multiline=true&width=255&height=70&lines=&nbsp;&nbsp;%24+whoami;&nbsp;&nbsp;Garvit+Budhiraja.;&nbsp;&nbsp;A+Developer+And+A+Problem+Solver." alt="Whoami">
 
-<b>About Me</b><br/>
+<h3>About Me</h3>
 <p>
   Hi, My name is Garvit.
   
@@ -15,21 +15,21 @@
 
 <img align="right" alt="Coding GIF" width="250" src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"/>
 
-<b>Currently Growing</b>
+<h3>Currently Growing</h3>
 <ul>
   <li>I'm pursuing my Bachelor's in Computer Science at <a href="https://vitbhopal.ac.in/">VIT Bhopal University</a>.</li>
   <li>Exploring various fields within computer science, including machine learning, web development, app development and cyber security.</li>
   <li>Actively learning new technologies and frameworks to broaden my skill set.</li>
 </ul>
 
-<b>My Interests</b>
+<h3>My Interests</h3>
 <ul>
   <li><a href="https://github.com/garvit-exe">Open Source</a>: Enjoy contributing to open-source projects.</li>
   <li><a href="https://leetcode.com/garvit-exe/">Problem Solving</a>: I love finding elegant solutions to challenging problems.</li>
   <li>Designing: I like to design logos, posters, user interfaces, merchandise, and many more things.</li>
 </ul>
 
-<b>Projects</b><br/>
+<h3>Projects</h3>
 <details open>
   <summary>&nbsp;<b>FIR Sahayak</b>&nbsp;</summary>
   <p>
@@ -108,16 +108,47 @@
   </p>
 </details>
 
-<b>Socials</b><br/>
+<h3 align="left">Socials</h3>
+<p align="left">
+  <a href="https://codepen.io/garvit-exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="garvit-exe" height="30" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/being_garvit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="being_garvit" height="30" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/garvit-budhiraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="garvit-budhiraja" height="30" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/22660274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22660274" height="30" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://kaggle.com/budhirajagarvit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="budhirajagarvit" height="30" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://instagram.com/garvit__budhiraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="garvit__budhiraja" height="30" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/garvitbudhiraja2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="garvitbudhiraja2" height="30" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://www.leetcode.com/garvit-exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="garvit-exe" height="30" width="40" /></a>
+</p>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/garvit__budhiraja) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/garvit-budhiraja) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22660274) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/being_garvit) 
-
-<b>Tech Stack</b><br/>
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Swift](https://img.shields.io/badge/swift-%23E34F26.svg?style=for-the-badge&logo=swift&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+<h3 align="left">Languages and Tools</h3>
+<p align="left">
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.qt.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
+</p>
 
 <details open>
-  <summary>&nbsp;<b>GitHub Stats</b>&nbsp</summary><br/>
+  <summary>&nbsp;<h3>GitHub Stats</h3>&nbsp;</summary>
   <table>
     <tr>
       <td align="center">
@@ -136,13 +167,12 @@
       </td>
     </tr>
   </table>
-</details><br />
+</details>
 
 <details open>
-  <summary>&nbsp;<b>My Contributions</b>&nbsp;</summary>
-  <div align="center">
-    <img alt="GitHub Activity Graph" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=garvit-exe&theme=github-compact&hide_border=true&area=true&area_color=8a2be2&line=8a2be2&point=8a2be2&hide_title=true" />
+  <summary>&nbsp;<h3>My Contributions</h3>&nbsp;</summary>
+  <div>
     <img alt="My Contributions" src="https://raw.githubusercontent.com/garvit-exe/garvit-exe/output/github-contribution-grid-snake.svg"/>
-    <br/><br/><br/>
+    <img alt="GitHub Activity Graph" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=garvit-exe&theme=github-compact&hide_border=true&area=true&area_color=8a2be2&line=8a2be2&point=8a2be2&hide_title=true" />
   </div>
 </details>
