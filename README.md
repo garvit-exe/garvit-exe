@@ -132,12 +132,12 @@
         <img src="https://github-readme-stats-garvit-exe.vercel.app/api?username=garvit-exe&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: auto; border: none;">
       </td>
       <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=garvit-exe&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+        <img src="https://github-readme-stats-garvit-exe.vercel.app/api/top-langs/?username=garvit-exe&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: auto; border: none;" />
       </td>
     </tr>
   </table>
   <p align="center">
-    <img src="https://github-readme-stats-garvit-exe.vercel.app/api/top-langs/?username=garvit-exe&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: auto; border: none;">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=garvit-exe&theme=transparent&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
   </p><br/>
 </details>
 
