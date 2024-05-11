@@ -176,3 +176,7 @@
     <img alt="GitHub Activity Graph" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=garvit-exe&theme=github-compact&hide_border=true&area=true&area_color=8a2be2&line=8a2be2&point=8a2be2&hide_title=true" />
   </div>
 </details>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Follow+Me!;Give+me+a+Star;" alt="Follow me"/>
+</h1>
