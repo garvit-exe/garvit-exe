@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=garvit-exe.garvit-exe&left_text=Visitors%20on%20my%20profile&left_color=black&right_color=blueviolet"/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=01001000+01101001;My+name+is+Garvit.;Nice+to+meet+you!;" alt="Hi"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=My+name+is+Garvit.;Nice+to+meet+you!;" alt="Hi"/>
 </h1>
 
 <img align="right" src="https://readme-typing-svg.herokuapp.com?font=Goldman&size=13&duration=2000&pause=300&color=00F72B&background=000000&vCenter=true&multiline=true&width=255&height=70&lines=&nbsp;&nbsp;%24+whoami;&nbsp;&nbsp;Garvit+Budhiraja.;&nbsp;&nbsp;A+Developer+And+A+Problem+Solver." alt="Whoami">
