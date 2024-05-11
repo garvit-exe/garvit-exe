@@ -54,7 +54,7 @@
           Languages and Frameworks
         </td>
         <td>
-          HTML, CSS, JavaScript, Node.js, Express.js, Python, Flask, SQLite3
+          HTML/CSS, JavaScript, Node.js, Express, Python, Flask, SQLite3
         </td>
       </tr>
       <tr>
