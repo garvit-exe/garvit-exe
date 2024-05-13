@@ -187,7 +187,7 @@ if __name__ == '__main__':
         <img src="https://github-readme-stats-garvit-exe.vercel.app/api?username=garvit-exe&theme=tokyonight&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats-garvit-exe.vercel.app/api/top-langs/?username=garvit-exe&theme=tokyonight&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true&layout=donut" alt="Top Languages" />
+        <img src="https://github-readme-stats-garvit-exe.vercel.app/api/top-langs/?username=garvit-exe&theme=tokyonight&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
       </td>
     </tr>
     <tr>
