@@ -29,6 +29,37 @@
   <li>Designing: I like to design logos, posters, user interfaces, merchandise, and many more things.</li>
 </ul>
 
+```python
+class Intro:
+    def __init__(self):
+        self.username = 'garvit-exe'
+        self.name = 'Garvit Budhiraja'
+        self.role = 'Computer Science Student'
+        self.github = 'https://github.com/garvit-exe'
+        self.linkedin = 'https://linkedin.com/in/garvit-budhiraja'
+        self.code = {
+            'concepts': ['DSA', 'OOP', 'DBMS', 'ML', 'Computer Networking', 'Cloud Computing'],
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'Bootstrap'],
+            'backend': ['Flask', 'NodeJS', 'Express', 'PHP'],
+            'database': ['MySQL', 'SQLite'],
+            'app-development': ['Swift'],
+            'competitive-coding': ['C++', 'Java', 'Python'],
+            'tools': ['GIT', 'GitHub', 'Vercel', 'GitLab'],
+            'text-editors': ['VSCode', 'Vim', 'NeoVim', 'Nano', 'PyCharm', 'IntelliJ', 'Zed', 'Jupyter Notebook'],
+            'os': ['macOS', 'Linux']
+        }
+        self.aim = 'Aspiring Innovator'
+
+    def __str__(self):
+        return f'{self.name} | {self.role} | {self.aim}'
+
+
+if __name__ == '__main__':
+    whoami = Intro()
+    print(whoami)
+
+```
+
 <h3>Projects</h3>
 <details open>
   <summary>&nbsp;<b>FIR Sahayak</b>&nbsp;</summary>
@@ -176,7 +207,3 @@
     <img alt="GitHub Activity Graph" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=garvit-exe&theme=github-compact&hide_border=true&area=true&area_color=8a2be2&line=8a2be2&point=8a2be2&hide_title=true" />
   </div>
 </details>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Follow+Me!;Give+me+a+Star;" alt="Follow me"/>
-</h1>
