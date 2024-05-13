@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=My+name+is+Garvit.;Nice+to+meet+you!;" alt="Hi"/>
 </h1>
 
-<img align="right" src="https://readme-typing-svg.herokuapp.com?font=VT323&size=18&duration=2000&pause=300&color=32cd32&vCenter=true&multiline=true&width=275&height=85&lines=&nbsp;&nbsp;%24+whoami;&nbsp;&nbsp;Garvit+Budhiraja.;&nbsp;&nbsp;A+Developer+And+A+Problem+Solver." alt="Whoami">
+<img align="right" src="https://readme-typing-svg.herokuapp.com?font=Goldman&size=13&duration=2000&pause=300&color=32cd32&vCenter=true&multiline=true&width=275&height=70&lines=&nbsp;&nbsp;%24+whoami;&nbsp;&nbsp;Garvit+Budhiraja.;&nbsp;&nbsp;A+Developer+And+A+Problem+Solver." alt="Whoami">
 
 <h3>About Me</h3>
 <p>
