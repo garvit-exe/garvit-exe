@@ -7,7 +7,7 @@
 <img align="right" src="https://readme-typing-svg.herokuapp.com?font=Goldman&size=13&duration=2000&pause=300&color=32cd32&vCenter=true&multiline=true&width=275&height=70&lines=&nbsp;&nbsp;%24+whoami;&nbsp;&nbsp;Garvit+Budhiraja.;&nbsp;&nbsp;A+Developer+And+A+Problem+Solver." alt="Whoami">
 
 <h3>About Me</h3>
-<p>
+<p align="justify">
   Hi, My name is Garvit.
   
   Fuelled by my passion and love for coding and exploring new algorithms, I deeply desire to make innovations and break through current technology with unconventional methods. I love learning new coding languages and facing challenges that improve my creativity. Finding unique methods that shock people into thinking "IT CAN BE DONE THAT WAY!?!?" is my cup of tea.
