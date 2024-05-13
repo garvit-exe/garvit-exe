@@ -13,21 +13,6 @@
   Fuelled by my passion and love for coding and exploring new algorithms, I deeply desire to make innovations and break through current technology with unconventional methods. I love learning new coding languages and facing challenges that improve my creativity. Finding unique methods that shock people into thinking "IT CAN BE DONE THAT WAY!?!?" is my cup of tea.
 </p>
 
-<img align="right" alt="Coding GIF" width="250" src="/assets/coding.gif"/>
-
-<h3>Currently Growing</h3>
-<ul>
-  <li>I'm pursuing my Bachelor's in Computer Science at <a href="https://vitbhopal.ac.in/">VIT Bhopal University</a>.</li>
-  <li>Exploring various fields within computer science, including machine learning, web development, app development and cyber security.</li>
-  <li>Actively learning new technologies and frameworks to broaden my skill set.</li>
-</ul>
-
-<h3>My Interests</h3>
-<ul>
-  <li><a href="https://github.com/garvit-exe">Open Source</a>: Enjoy contributing to open-source projects.</li>
-  <li><a href="https://leetcode.com/garvit-exe/">Problem Solving</a>: I love finding elegant solutions to challenging problems.</li>
-  <li>Designing: I like to design logos, posters, user interfaces, merchandise, and many more things.</li>
-</ul>
 
 ```python
 class Intro:
@@ -59,6 +44,22 @@ if __name__ == '__main__':
     print(whoami)
 
 ```
+
+<img align="right" alt="Coding GIF" width="275" src="/assets/coding.gif"/>
+
+<h3>Currently Growing</h3>
+<ul>
+  <li>I'm pursuing my Bachelor's in Computer Science at <a href="https://vitbhopal.ac.in/">VIT Bhopal University</a>.</li>
+  <li>Exploring various fields within computer science, including machine learning, web development, app development and cyber security.</li>
+  <li>Actively learning new technologies and frameworks to broaden my skill set.</li>
+</ul>
+
+<h3>My Interests</h3>
+<ul>
+  <li><a href="https://github.com/garvit-exe">Open Source</a>: Enjoy contributing to open-source projects.</li>
+  <li><a href="https://leetcode.com/garvit-exe/">Problem Solving</a>: I love finding elegant solutions to challenging problems.</li>
+  <li>Designing: I like to design logos, posters, user interfaces, merchandise, and many more things.</li>
+</ul>
 
 <h3>Projects</h3>
 <details open>
