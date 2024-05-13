@@ -29,7 +29,7 @@ class Intro:
             'database': ['MySQL', 'SQLite'],
             'app-development': ['Swift'],
             'competitive-coding': ['C++', 'Java', 'Python'],
-            'tools': ['GIT', 'GitHub', 'Vercel', 'GitLab', 'Jupyter Notebook', 'Linux']
+            'tools': ['GIT', 'GitHub', 'Vercel', 'GitLab', 'Jupyter Notebook', 'Linux', 'Wordpress', 'Canva']
         }
         self.aim = 'Aspiring Innovator'
 
