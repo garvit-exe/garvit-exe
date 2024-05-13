@@ -1,4 +1,4 @@
-Mon, 13-05-2024
+<span align="left"> {{CURRENT_DATE}} </span>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=garvit-exe.garvit-exe&left_text=Visitors%20on%20my%20profile&left_color=black&right_color=blueviolet"/>
 
