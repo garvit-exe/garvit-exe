@@ -1,0 +1,29 @@
+name: Update Date
+
+on:
+  schedule:
+    - cron: '30 5 * * *'  # Runs every day at 00:00 IST (05:30 UTC)
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  update_date:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Update Date
+        run: |
+          sed -i "s|{{CURRENT_DATE}}|$(date +'%Y-%m-%d')|g" README.md
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Update current date in README" || echo "No changes to commit"
+          git push
