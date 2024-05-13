@@ -45,7 +45,7 @@ if __name__ == '__main__':
 
 ```
 
-<img align="right" alt="Coding GIF" width="250" src="/assets/coding.gif"/>
+<img align="right" alt="Coding GIF" width="250" src="/assets/coding-without-background.gif"/>
 
 <h3>Currently Growing</h3>
 <ul>
