@@ -24,7 +24,9 @@ jobs:
       - name: Generate Date Image
         run: |
           DATE=$(date +'%a, %d-%m-%Y')
-          convert -font Roboto-Regular.ttf -pointsize 20 -fill purple -gravity center label:"$DATE" -background none date.png
+          convert -font Roboto-Regular.ttf -pointsize 20 -fill purple -gravity center label:"$DATE" initialdate.png
+          color=$( convert date.png -format "%[pixel:p{0,0}]" info:- )
+          convert initialdate.png -alpha off -bordercolor $color -border 1 \( +clone -fuzz 30% -fill none -floodfill +0+0 $color -alpha extract -geometry 200% -blur 0x0.5 -morphology erode square:1 -geometry 50% \) -compose CopyOpacity -composite -shave 1 date.png
 
       - name: Commit changes
         run: |
