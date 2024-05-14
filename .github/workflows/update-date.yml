@@ -13,8 +13,26 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '14'
+
+      - name: Install dependencies
+        run: npm install --save date-fns
+
       - name: Generate Date Image
-        run: echo $(date +'%a, %d-%m-%Y') | convert label:@- date.png
+        run: |
+          const fs = require('fs');
+          const { format } = require('date-fns');
+
+          const currentDate = format(new Date(), 'E, dd-MM-yyyy');
+          fs.writeFileSync('date.txt', currentDate);
+
+          // Convert text to PNG image
+          const { execSync } = require('child_process');
+          execSync('convert -size 200x50 xc:white -font "Arial" -pointsize 24 -fill black -gravity center -annotate +0+0 "@date.txt" date.png');
+          
       - name: Upload Date Image
         uses: actions/upload-artifact@v2
         with:
