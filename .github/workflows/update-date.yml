@@ -13,17 +13,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
-
-      - name: Update Date
+      - name: Generate Date Image
+        run: echo $(date +'%a, %d-%m-%Y') | convert label:@- date.png
+      - name: Upload Date Image
+        uses: actions/upload-artifact@v2
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: $(date +'%a, %d-%m-%Y')
-
-      - name: Commit changes
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
+          name: date
+          path: date.png
