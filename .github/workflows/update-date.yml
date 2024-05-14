@@ -24,12 +24,17 @@ jobs:
       - name: Generate Date Image
         run: |
           DATE=$(date +'%a, %d-%m-%Y')
-          convert -size 200x50 xc:white -font Roboto-Regular.ttf -pointsize 20 -fill black -gravity center -annotate +0+0 "$DATE" date.png
+          convert -size 200x50 xc:white -font Roboto-Regular.ttf -pointsize 20 -fill purple -gravity center -annotate +0+0 "$DATE" -transparent white date.png
 
-      - name: Commit changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add date.png
-          git commit -m "Update current date image" || echo "No changes to commit"
-          git push
+      - name: generate date.png
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/date.png
+
+      - name: push date.png to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
