@@ -13,19 +13,18 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: '14'
-
-      - name: Install dependencies
-        run: npm install --save date-fns
+      - name: Checkout repository
+        uses: actions/checkout@v2
 
       - name: Generate Date Image
-        run: node generate_date.js
+        run: |
+          DATE=$(date +'%a, %d-%m-%Y')
+          convert -size 200x50 xc:white -gravity center -pointsize 20 -fill black -annotate +0+0 "$DATE" date.png
 
-      - name: Upload Date Image
-        uses: actions/upload-artifact@v2
-        with:
-          name: date
-          path: date.png
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add date.png
+          git commit -m "Update current date image" || echo "No changes to commit"
+          git push
