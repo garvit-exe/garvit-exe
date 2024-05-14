@@ -21,8 +21,7 @@ jobs:
       - name: Install Dependancies
         run: |
           npm install imagemagick
-          curl -o Roboto-Regular.ttf -L https://github.com/garvit-exe/garvit-exe/blob/main/assets/fonts/Roboto-Regular.ttf
-      - name: Generate Date Image
+          curl -o Roboto-Regular.ttf -L https://github.com/garvit-exe/garvit-exe/raw/main/assets/fonts/Roboto-Regular.ttf
         run: |
           DATE=$(date +'%a, %d-%m-%Y')
           convert xc:none -font Roboto-Regular.ttf -pointsize 20 -fill purple -gravity center label:"$DATE" date.png
