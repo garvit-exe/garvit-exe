@@ -24,7 +24,7 @@ jobs:
       - name: Generate Date Image
         run: |
           DATE=$(date +'%a, %d-%m-%Y')
-          convert -size 200x50 xc:white -font Roboto-Regular.ttf -pointsize 20 -fill blue -gravity center -annotate +0+0 "$DATE" -transparent white date.png
+          convert -size 200x50 xc:white -font Roboto-Regular.ttf -pointsize 20 -fill purple -gravity center -annotate +0+0 "$DATE" -transparent black date.png
 
       - name: Commit changes
         run: |
