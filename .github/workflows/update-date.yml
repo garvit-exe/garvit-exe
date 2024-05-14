@@ -24,7 +24,7 @@ jobs:
       - name: Generate Date Image
         run: |
           DATE=$(date +'%a, %d-%m-%Y')
-          convert -size 200x50 xc:white -font Noto_Sans -pointsize 20 -fill black -gravity center -annotate +0+0 "$DATE" date.png
+          convert -size 200x50 xc:white -font 'Noto Sans' -pointsize 20 -fill black -gravity center -annotate +0+0 "$DATE" date.png
 
       - name: Commit changes
         run: |
