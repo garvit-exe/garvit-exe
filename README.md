@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/garvit-exe/garvit-exe/raw/main/date_image.png" />
+<img src="date.png" />
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=garvit-exe.garvit-exe&left_text=Visitors%20on%20my%20profile&left_color=black&right_color=blueviolet"/>
 
