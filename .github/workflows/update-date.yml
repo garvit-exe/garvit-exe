@@ -17,12 +17,14 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Install Dependancies
-        run: npm install imagemagick
+        run: |
+          npm install imagemagick
+          sudo apt-get install -y fonts-Helvetica
 
       - name: Generate Date Image
         run: |
           DATE=$(date +'%a, %d-%m-%Y')
-          convert -size 200x50 xc:white -font Arial -pointsize 20 -fill black -gravity center -annotate +0+0 "$DATE" date.png
+          convert -size 200x50 xc:white -font Helvetica -pointsize 20 -fill black -gravity center -annotate +0+0 "$DATE" date.png
 
       - name: Commit changes
         run: |
