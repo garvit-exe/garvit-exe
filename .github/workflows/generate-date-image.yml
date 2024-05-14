@@ -27,7 +27,7 @@ jobs:
 
       - name: generate date.png
         run: |
-          DATE=$(TZ=IST date + '%a, %d-%m-%Y')
+          DATE=$(TZ=IST date)
           convert xc:none -font Roboto-Regular.ttf -pointsize 20 -fill purple -gravity center label:"$DATE" date.png
 
       - name: Commit changes
