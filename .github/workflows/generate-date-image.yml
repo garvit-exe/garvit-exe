@@ -2,7 +2,7 @@ name: Generate Date Image
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs every day at 00:00 UTC
+    - cron: '30 18 * * *' # Runs every day at 00:00 IST
 
   workflow_dispatch:
 
@@ -22,8 +22,10 @@ jobs:
         run: |
           npm install imagemagick
           curl -o Roboto-Regular.ttf -L https://github.com/garvit-exe/garvit-exe/raw/main/assets/fonts/Roboto-Regular.ttf
+
+      - name: generate date.png
         run: |
-          DATE=$(date +'%a, %d-%m-%Y')
+          DATE=$(TZ=Asia/Kolkata date + '%a, %d-%m-%Y')
           convert xc:none -font Roboto-Regular.ttf -pointsize 20 -fill purple -gravity center label:"$DATE" date.png
 
       - name: Commit changes
