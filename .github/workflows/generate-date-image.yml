@@ -25,7 +25,7 @@ jobs:
 
       - name: generate date.png
         run: |
-          DATE=$(TZ=Asia/Kolkata date +'%a, %d-%m-%Y')
+          DATE=$(date +'%a, %d-%m-%Y')
           convert xc:none -font Roboto-Regular.ttf -pointsize 20 -fill purple -gravity center label:"$DATE" date.png
 
       - name: Commit changes
