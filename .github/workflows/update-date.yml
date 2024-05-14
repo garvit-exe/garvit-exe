@@ -22,7 +22,7 @@ jobs:
         run: npm install --save date-fns
 
       - name: Generate Date Image
-        run: node js/generate_date.js
+        run: node generate_date.js
 
       - name: Upload Date Image
         uses: actions/upload-artifact@v2
