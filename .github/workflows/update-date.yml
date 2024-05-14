@@ -16,17 +16,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Install dependencies
-        run: sudo apt-get install -y chromium-browser
+      - name: Install Dependancies
+        run: npm install imagemagick
 
-      - name: Generate Date HTML
-        run: echo "<!DOCTYPE html><html><head><style>body { margin: 0; font-family: Arial, sans-serif; background-color: #fff; } .date { width: 200px; height: 50px; display: flex; justify-content: center; align-items: center; font-size: 20px; color: black; }</style></head><body><div class='date'>$(date +'%a, %d-%m-%Y')</div></body></html>" > date.html
-
-      - name: Take screenshot
-        run: chromium-browser --headless --disable-gpu --screenshot --window-size=200,50 date.html
-
-      - name: Move screenshot
-        run: mv screenshot.png date.png
+      - name: Generate Date Image
+        run: |
+          DATE=$(date +'%a, %d-%m-%Y')
+          convert -size 200x50 xc:white -fill black -font Helvetica -pointsize 20 -gravity Center -annotate +0+0 "$DATE" date.png
 
       - name: Commit changes
         run: |
