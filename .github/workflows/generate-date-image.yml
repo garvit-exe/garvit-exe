@@ -32,6 +32,6 @@ jobs:
         run: |
           git config --local user.email "garvitbudhiraja02@gmail.com"
           git config --local user.name "garvit-exe"
-          git add date.png
+          git add .
           git commit -m "Update current date image" || echo "No changes to commit"
           git push
