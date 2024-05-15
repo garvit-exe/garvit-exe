@@ -12,6 +12,9 @@ jobs:
   generate_date_image:
     runs-on: ubuntu-latest
 
+    outputs:
+      date_image: ${{ steps.generate_date.outputs.date_image }}
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -25,18 +28,10 @@ jobs:
         id: generate_date
         run: |
           DATE=$(date +'%a, %d-%m-%Y')
-          convert xc:none -font Roboto-Regular.ttf -pointsize 20 -fill purple -gravity center label:"$DATE" date.png
+          convert xc:none -font Roboto-Regular.ttf -pointsize 20 -fill purple -gravity center label:"$DATE" dist/date.png
+          echo "::set-output name=date_image::dist/date.png"
 
-      - name: Output date.png
+      - name: Push date.png to the date branch
+        uses: actions/checkout@v2
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/date.png
-
-      - name: push date.png to the date branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: date
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ref: date
