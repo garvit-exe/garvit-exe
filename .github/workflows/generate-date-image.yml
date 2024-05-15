@@ -28,7 +28,7 @@ jobs:
           convert xc:none -font Roboto-Regular.ttf -pointsize 20 -fill purple -gravity center label:"$DATE" dist/date.png
 
       - name: output date.png
-        uses: ${{ steps.generate_date }}
+        id: output_date
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/date.png
