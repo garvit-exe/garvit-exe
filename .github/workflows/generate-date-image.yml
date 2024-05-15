@@ -1,12 +1,12 @@
 name: Generate Date Image
 
 on:
-  schedule:
-    - cron: '0 * * * *' # Runs every hour
+  # schedule:
+  #   - cron: '0 * * * *' # Runs every hour
   workflow_dispatch:
-  push:
-    branches:
-    - main
+  # push:
+  #   branches:
+  #   - main
 
 jobs:
   build:
