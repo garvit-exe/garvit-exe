@@ -31,8 +31,8 @@ jobs:
         id: output_date
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/date.png
-
+          run: echo "::set-output name=date_png::dist/date.png"
+          
       - name: push date.png to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
