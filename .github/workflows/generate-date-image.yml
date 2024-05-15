@@ -24,6 +24,9 @@ jobs:
           sudo apt-get install -y imagemagick
           curl -o Roboto-Regular.ttf -L https://github.com/garvit-exe/garvit-exe/raw/main/assets/fonts/Roboto-Regular.ttf
 
+      - name: Create dist directory
+        run: mkdir -p dist
+
       - name: Generate Date Image
         id: generate_date
         run: |
