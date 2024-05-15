@@ -33,11 +33,6 @@ jobs:
           outputs: |
             dist/date.png
 
-      - name: ensure the generated file exists
-        run: |
-          ls dist
-          test -f dist/date.png
-
       - name: push date.png to the date branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
