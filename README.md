@@ -209,11 +209,11 @@ if __name__ == '__main__':
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://raw.githubusercontent.com/garvit-exe/garvit-exe/output/github-contribution-grid-snake-dark.svg"
+        srcset="https://raw.githubusercontent.com/garvit-exe/garvit-exe/output/github-contribution-grid-snake.svg"
       />
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://raw.githubusercontent.com/garvit-exe/garvit-exe/output/github-contribution-grid-snake.svg"
+        srcset="https://raw.githubusercontent.com/garvit-exe/garvit-exe/output/github-contribution-grid-snake-dark.svg"
       />
       <img
         alt="github contribution grid snake animation"
