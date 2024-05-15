@@ -3,9 +3,7 @@ name: Generate Date Image
 on:
   schedule:
     - cron: '30 18 * * *' # Runs every day at 00:00 IST
-
   workflow_dispatch:
-
   push:
     branches:
     - main
@@ -14,24 +12,21 @@ jobs:
   generate_date_image:
     runs-on: ubuntu-latest
 
+    outputs:
+      date_image: ${{ steps.generate_date.outputs.date_image }}
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Install Dependancies
+      - name: Install Dependencies
         run: |
-          npm install imagemagick
+          sudo apt-get install -y imagemagick
           curl -o Roboto-Regular.ttf -L https://github.com/garvit-exe/garvit-exe/raw/main/assets/fonts/Roboto-Regular.ttf
 
-      - name: generate date.png
+      - name: Generate Date Image
+        id: generate_date
         run: |
           DATE=$(TZ=IST date +'%a, %d-%m-%Y')
           convert xc:none -font Roboto-Regular.ttf -pointsize 20 -fill purple -gravity center label:"$DATE" date.png
-
-      - name: Commit changes
-        run: |
-          git config --local user.email "garvitbudhiraja02@gmail.com"
-          git config --local user.name "garvit-exe"
-          git add date.png
-          git commit -m "Update current date image" || echo "No changes to commit"
-          git push
+          echo "::set-output name=date_image::date.png"
