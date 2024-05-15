@@ -25,7 +25,7 @@ jobs:
         id: generate_date
         run: |
           DATE=$(date +'%a, %d-%m-%Y')
-          convert xc:none -font Roboto-Regular.ttf -pointsize 20 -fill purple -gravity center label:"$DATE" dist/date.png
+          convert xc:none -font Roboto-Regular.ttf -pointsize 20 -fill purple -gravity center label:"$DATE" date.png
 
       - name: output date.png
         id: output_date
