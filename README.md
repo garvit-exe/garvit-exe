@@ -1,8 +1,6 @@
-<img align="left" width="100" src="https://raw.githubusercontent.com/garvit-exe/garvit-exe/date/date.png" />
+<!-- <img align="left" width="100" src="https://raw.githubusercontent.com/garvit-exe/garvit-exe/date/date.png" /> -->
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=garvit-exe.garvit-exe&left_text=Visitors%20on%20my%20profile&left_color=black&right_color=blueviolet"/>
-
-<br />
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=My+name+is+Garvit.;Nice+to+meet+you!;" alt="Hi"/>
