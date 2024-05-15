@@ -34,7 +34,9 @@ jobs:
           convert xc:none -font Roboto-Regular.ttf -pointsize 20 -fill purple -gravity center label:"$DATE" dist/date.png
           echo "::set-output name=date_image::dist/date.png"
 
-      - name: Push date.png to the date branch
+      - name: Push date.png to the output branch
         uses: actions/checkout@v2
         with:
-          ref: date
+          ref: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
