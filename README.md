@@ -139,6 +139,7 @@ if __name__ == '__main__':
     </table>
   </p>
 </details>
+<h4>See more projects <a href="https://github.com/garvit-exe?tab=repositories">here</a>.</h4>
 
 <h3 align="left">Socials</h3>
 <p align="left">
