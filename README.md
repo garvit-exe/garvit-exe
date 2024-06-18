@@ -45,7 +45,7 @@ if __name__ == '__main__':
 
 ```
 
-<img align="right" alt="Coding GIF" width="250" src="/assets/img/coding-without-background.gif"/>
+<img align="right" alt="Coding GIF" width="250" src="https://github.com/garvit-exe/garvit-exe/blob/main/assets/img/coding-without-background.gif"/>
 
 <h3>Currently Growing</h3>
 <ul>
