@@ -214,13 +214,5 @@ if __name__ == '__main__':
         <img alt="GitHub Activity Graph" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=garvit-exe&theme=github-compact&hide_border=true&area=true&area_color=8a2be2&line=8a2be2&point=8a2be2&hide_title=true&grid=false" />
       </td>
     </tr>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats-garvit-exe.vercel.app/api/top-langs/?username=garvit-exe&theme=tokyonight&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true" alt="Top Languages" />
-      </td>
-      <td align="center">
-        <img alt="Top Languages by Repositories" src="http://github-profile-summary-cards-garvit.vercel.app/api/cards/repos-per-language?username=garvit-exe&theme=transparent" />
-      </td>
-    </tr>
   </table>
 </details>
