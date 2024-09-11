@@ -65,14 +65,14 @@ if __name__ == '__main__':
 
 <h3>Projects</h3>
 <details open>
-  <summary>&nbsp;<b>FIR Sahayak</b>&nbsp;</summary>
+  <summary>&nbsp;<b>FIR सहायक</b>&nbsp;</summary>
   <p>
     <table>
       <td>
           Project Name
         </td>
         <td>
-          F.I.R. सहायक (First Information Report - Sahayak)
+          F.I.R. Sahayak (First Information Report - Helper)
         </td>
       </tr>
       <tr>
