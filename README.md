@@ -6,6 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&color=FF0000&vCenter=true&width=500&height=70&duration=4000&lines=My+name+is+Garvit.;Nice+to+meet+you!;" alt="My name is Garvit. Nice to meet you!"/>
 </h1>
 
+<!--
 <img align="right" src="https://readme-typing-svg.herokuapp.com?font=Goldman&size=13&duration=2000&pause=300&color=3bbb90&vCenter=true&multiline=true&width=275&height=70&lines=&nbsp;&nbsp;%24+whoami;&nbsp;&nbsp;Garvit+Budhiraja.;&nbsp;&nbsp;A+Developer+And+A+Problem+Solver." alt="Whoami">
 
 <h3>About Me</h3>
@@ -44,6 +45,7 @@ if __name__ == '__main__':
     print(whoami)
 
 ```
+-->
 
 <img align="right" alt="Coding GIF" width="250" src="https://raw.githubusercontent.com/garvit-exe/garvit-exe/main/assets/img/coding-without-background.gif"/>
 
