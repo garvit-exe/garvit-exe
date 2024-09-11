@@ -72,7 +72,7 @@ if __name__ == '__main__':
           Project Name
         </td>
         <td>
-          F.I.R. Sahayak (First Information Report - Sahayak)
+          F.I.R. सहायक (First Information Report - Sahayak)
         </td>
       </tr>
       <tr>
@@ -182,7 +182,7 @@ if __name__ == '__main__':
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
 </p>
 
-<details open>
+<details>
   <summary>&nbsp;<h3>GitHub Stats</h3>&nbsp;</summary>
   <table>
     <tr>
