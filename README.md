@@ -51,7 +51,7 @@ if __name__ == '__main__':
 
 <h3>Currently Growing</h3>
 <ul>
-  <li>I'm pursuing my Bachelor's in Computer Science at <a href="https://vitbhopal.ac.in/">VIT Bhopal University</a>.</li>
+  <li>I'm pursuing my Bachelor's in Computer Science at VIT Bhopal University.</li>
   <li>Exploring various fields within computer science, including machine learning, web development, app development and cyber security.</li>
   <li>Actively learning new technologies and frameworks to broaden my skill set.</li>
 </ul>
