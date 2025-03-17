@@ -4,7 +4,7 @@
       <img src="https://github-readme-stats-garvit-exe.vercel.app/api?username=garvit-exe&theme=tokyonight&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true&number_format=short&show_icons=true" alt="GitHub Stats" />
     </td>
     <td align="center">
-      <img alt="Prophile Trophies" src="https://github-profile-trophy.vercel.app/?username=garvit-exe&theme=flat&no-bg=true&no-frame=true&column=5" />
+      <img alt="Profile Trophies" src="https://github-profile-trophy.vercel.app/?username=garvit-exe&theme=flat&no-bg=true&no-frame=true&column=5" />
     </td>
   </tr>
   <tr>
