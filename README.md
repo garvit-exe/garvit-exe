@@ -17,7 +17,7 @@
       <img alt="productive Time Chart" src="http://github-profile-summary-cards-garvit.vercel.app/api/cards/productive-time?username=garvit-exe&theme=transparent&utcOffset=5.30" />
     </td>
     <td align="center">
-      <img src="https://streak-stats.demolab.com/?user=garvit-exe&theme=tokyonight-duo&hide_border=true" alt="garvit-exe's GitHub Stats" />
+      <img src="https://streak-stats.demolab.com/demo/preview.php?user=garvit-exe&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
