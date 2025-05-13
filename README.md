@@ -14,7 +14,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img alt="productive Time Chart" src="http://github-profile-summary-cards-garvit.vercel.app/api/cards/productive-time?username=garvit-exe&theme=transparent&utcOffset=5.30" />
+      <img alt="productive Time Chart" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=garvit-exe&theme=transparent&utcOffset=5.30" />
     </td>
     <td align="center">
       <img src="https://github-readme-streak-stats-eight.vercel.app/?user=garvit-exe&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" />
