@@ -1,3 +1,13 @@
+<details>
+<summary>
+  <table width="100%">
+    <tr>
+      <td bgcolor="black" width="100000000000" align="center">
+        GitHub Metrics
+      </td>
+    </tr>
+  </table>
+</summary>
 <table>
   <tr>
     <td align="center">
@@ -34,3 +44,4 @@
     </td>
   </tr>
 </table>
+</details>
