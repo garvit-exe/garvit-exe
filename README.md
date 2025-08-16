@@ -120,7 +120,7 @@
   </details>
 </details>
 
-<details>
+<details open>
 <summary>
   <table width="100%">
     <tr>
