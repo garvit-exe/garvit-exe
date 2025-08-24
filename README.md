@@ -65,7 +65,7 @@
       <table>
         <tr>
           <td colspan="2" align="center" style="vertical-align: middle;">
-            <img src="https://media.licdn.com/dms/image/v2/D4D2DAQGXzJZBuz6jig/profile-treasury-image-shrink_800_800/B4DZaWQ_Z6G0AY-/0/1746277763354?e=1755943200&v=beta&t=6Bektv6IzClg-YCLi520gMfLaXEa3kgScFX_s3OevmQ" alt="Land Ledger Project Image" />
+            <img src="https://github.com/garvit-exe/garvit-exe/blob/main/assets/img/land-ledger-project.jpeg?raw=true" alt="Land Ledger Project Image" />
           </td>
         </tr>
         <tr>
