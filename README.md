@@ -112,7 +112,7 @@
             Team Members
           </td>
           <td>
-            <a href="https://www.linkedin.com/in/garvit-budhiraja/"><b>Garvit Budhiraja</b></a>, <a href="https://github.com/shashidhar-kittur">Shashidhar Kittur</a>, <a href="https://github.com/Shashwat-Balodhi">Shashwat Balodhi</a>, <a href="https://github.com/Rohan-Gautam">Rohan Gautam</a>, <a href="https://github.com/Riya922003">Riya Gupta</a>, <a href="https://github.com/Alwaz1143">Saiyed Alwaz Hussain</a>, Uday Upadhyay, <a href="https://github.com/Chinmay3043">Chinmay Bhoyar</a>
+            <a href="https://www.linkedin.com/in/garvit-budhiraja/"><b>Garvit Budhiraja</b></a>, <a href="https://github.com/shashidhar-kittur">Shashidhar Kittur</a>, <a href="https://github.com/Shashwat-Balodhi">Shashwat Balodhi</a>, <a href="https://github.com/Rohan-Gautam">Rohan Gautam</a>, <a href="https://github.com/Riya922003">Riya Gupta</a>, <a href="https://github.com/Alwaz1143">Saiyed Alwaz Hussain</a>, <a href="https://github.com/Uday1901">Uday Upadhyay</a>, <a href="https://github.com/Chinmay3043">Chinmay Bhoyar</a>
           </td>
         </tr>
       </table>
