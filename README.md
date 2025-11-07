@@ -1,4 +1,4 @@
-<details>
+<details open>
   <summary>
     <table width="100%">
       <tr>
@@ -120,7 +120,7 @@
   </details>
 </details>
 
-<details open>
+<details>
 <summary>
   <table width="100%">
     <tr>
