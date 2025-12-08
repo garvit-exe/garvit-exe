@@ -1,0 +1,40 @@
+name: Update Retro Profile
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Generate SVG
+        run: node index.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_SECRET }}
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name 'GitHub Actions Bot'
+          git config --global user.email 'actions@github.com'
+          git add retro-profile.svg
+          git commit -m "Update retro stats" || echo "No changes to commit"
+          git push
