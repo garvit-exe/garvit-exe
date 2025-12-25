@@ -136,7 +136,8 @@
       <img src="https://github-readme-stats-garvit-exe.vercel.app/api?username=garvit-exe&theme=tokyonight&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true&number_format=short&show_icons=true" alt="GitHub Stats" />
     </td>
     <td align="center">
-      <img alt="Profile Trophies" src="https://github-profile-trophy.vercel.app/?username=garvit-exe&theme=flat&no-bg=true&no-frame=true&column=5" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=garvit-exe&theme=tokyonight&background=00000000&date_format=j%20M%5B%20Y%5D&hide_border=true" alt="GitHub Streak" />
+      </td>
     </td>
   </tr>
   <tr>
@@ -149,8 +150,7 @@
       <img alt="productive Time Chart" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=garvit-exe&theme=transparent&utcOffset=5.30" />
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=garvit-exe&theme=tokyonight&background=00000000&date_format=j%20M%5B%20Y%5D&hide_border=true" alt="GitHub Streak" />
-      </td>
+      <img alt="Profile Trophies" src="https://github-trophies.vercel.app/?username=garvit-exe&theme=flat&no-bg=true&no-frame=true&column=6" />
     </td>
   </tr>
   <tr>
